@@ -25,3 +25,4 @@ Go to folder "../webapp/frontend"
 2) in command line run  <code>npm start</code> 
 
 Open web browser and call URL  http://localhost:4200 
+# sql_generator33
